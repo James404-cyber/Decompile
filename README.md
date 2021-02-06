@@ -5,7 +5,7 @@
 
 <h1 align="center"> |MR.JAMES|</h1>
 
-<h2 align="center"> PYTHON DECOMPILE TOLLS </h2>
+<h2 align="center"> PYTHON DECOMPILE TOOLS </h2>
 
 <p align="center">
       PYTHON2 AND PYTHON3
